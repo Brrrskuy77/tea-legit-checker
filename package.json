@@ -1,0 +1,30 @@
+{
+  "name": "tea-legit-checker",
+  "version": "1.0.0",
+  "description": "Tea Legit Checker Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "tealegitchecker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/tea-legit-checker.git"
+  },
+  "keywords": [
+    "TEA",
+    "LEGIT",
+    "CHECKER"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/tea-legit-checker/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/tea-legit-checker#readme",
+  "dependencies": {
+    "@types/node": "^20.11.30"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.38"
+  }
+}
